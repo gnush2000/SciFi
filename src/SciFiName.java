@@ -26,7 +26,7 @@ public class SciFiName {
         String relativeName2 = UserInput.getString();
 
         // generate a sciFi name
-
-
+        String sciFiFirstName = firstName.substring(0, 4) + lastName.substring(0, 3);
+        System.out.println(sciFiFirstName);
     }
 }
