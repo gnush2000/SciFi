@@ -28,5 +28,10 @@ public class SciFiName {
         // generate a sciFi name
         String sciFiFirstName = firstName.substring(0, 4) + lastName.substring(0, 3);
         System.out.println(sciFiFirstName);
+
+        String sciFiLastName = city.substring(0,3)+ school.substring(0,4);
+        System.out.println(sciFiLastName);
+
+       
     }
 }
