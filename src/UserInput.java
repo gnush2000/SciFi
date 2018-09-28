@@ -1,5 +1,5 @@
+package com.SWcomputerSci;
 import java.util.Scanner;
-
 public class UserInput {
 
     public static String getString() {

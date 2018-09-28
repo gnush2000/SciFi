@@ -1,4 +1,6 @@
+package com.SWcomputerSci;
 public class SciFiName {
+
     /**
      * All input that you provide should be at least three letters long
      * or the program may crash (but feel free to test this!)
@@ -13,17 +15,17 @@ public class SciFiName {
 
         // notice this methd (print) does not print a newline
         System.out.print("Enter your first name: ");
-        String firstName = UserInput.getString();
+        String firstName =  com.SWcomputerSci.UserInput.getString();
         System.out.print("Enter your last name: ");
-        String lastName = UserInput.getString();
+        String lastName = com.SWcomputerSci.UserInput.getString();
         System.out.print("Enter the city where you or one of your parents were born: ");
-        String city = UserInput.getString();
+        String city = com.SWcomputerSci.UserInput.getString();
         System.out.print("Enter the name of your grammar school: ");
-        String school = UserInput.getString();
+        String school = com.SWcomputerSci.UserInput.getString();
         System.out.print("Enter the first name of a sibling or other relative: ");
-        String relativeName1 = UserInput.getString();
+        String relativeName1 = com.SWcomputerSci.UserInput.getString();
         System.out.println("Enter the first name of a second sibling or relative: ");
-        String relativeName2 = UserInput.getString();
+        String relativeName2 = com.SWcomputerSci.UserInput.getString();
 
         // generate a sciFi name
         String sciFiFirstName = firstName.substring(0, 4) + lastName.substring(0, 3);
