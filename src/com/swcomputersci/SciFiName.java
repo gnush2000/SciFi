@@ -23,12 +23,26 @@ public class SciFiName {
         System.out.print("Enter the first name of a sibling or other relative: ");
         String relativeName1 = UserInput.getString();
         System.out.println("Enter the first name of a second sibling or relative: ");
-        String relativeName2 = com.SWcomputerSci.UserInput.getString();
         String relativeName2 = UserInput.getString();
         // generate a sciFi name
-        String sciFiFirstName = firstName.substring(0, 4) + lastName.substring(0, 3);
+        String sciFiFirstName = firstName.substring(0, 3) + lastName.substring(0, 2);
         System.out.println(sciFiFirstName);
-        String sciFiLastName = city.substring(0,3)+ school.substring(0,4);
+        String sciFiLastName = city.substring(0,2)+ school.substring(0,3);
         System.out.println(sciFiLastName);
+
+        int origen = (int) (Math.random()*(firstName.length()-1));
+
+        String place = firstName.substring(origen, firstName.length());
+        System.out.println(place);
+
+        int location = (int) (Math.random()*(relativeName1.length()));
+        String distance = relativeName1.substring(location, relativeName1.length());
+        System.out.println(distance);
+
+        System.out.println(place + " " + distance);
+
+        System.out.println("Hello " + place + " " + distance + " of "+ city + "!");
+
+
     }
 }
