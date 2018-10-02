@@ -1,19 +1,15 @@
+package com.swcomputersci;
+
 public class SciFiName {
-    /**
-     * All input that you provide should be at least three letters long
-     * or the program may crash (but feel free to test this!)
-     *
-     * For best results, user lowercase letters and do not use spaces in your input
-     */
-    public static void main()
-    {
+
+    public static void main(String[] args) {
         System.out.println("If you provide me some information I will provide a Science Fiction name for you.");
         System.out.println("Please have all responses  be at least three characters long.");
         System.out.println("For best results, user lowercase letters with no spaces.\n");
 
         // notice this methd (print) does not print a newline
         System.out.print("Enter your first name: ");
-        String firstName = UserInput.getString();
+        String firstName =  UserInput.getString();
         System.out.print("Enter your last name: ");
         String lastName = UserInput.getString();
         System.out.print("Enter the city where you or one of your parents were born: ");
@@ -31,7 +27,10 @@ public class SciFiName {
 
         String sciFiLastName = city.substring(0,3)+ school.substring(0,4);
         System.out.println(sciFiLastName);
+<<<<<<< HEAD:src/SciFiName.java
 
 
+=======
+>>>>>>> d52757607795ff0cfa22428afbbf44192b65a30d:src/com/swcomputersci/SciFiName.java
     }
 }
