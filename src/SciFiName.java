@@ -1,6 +1,5 @@
-package com.SWcomputerSci;
+package com.swcomputersci;
 public class SciFiName {
-
     /**
      * All input that you provide should be at least three letters long
      * or the program may crash (but feel free to test this!)
@@ -12,8 +11,7 @@ public class SciFiName {
         System.out.println("If you provide me some information I will provide a Science Fiction name for you.");
         System.out.println("Please have all responses  be at least three characters long.");
         System.out.println("For best results, user lowercase letters with no spaces.\n");
-
-        // notice this methd (print) does not print a newline
+        // notice this method (print) does not print a newline
         System.out.print("Enter your first name: ");
         String firstName =  com.SWcomputerSci.UserInput.getString();
         System.out.print("Enter your last name: ");
@@ -26,14 +24,10 @@ public class SciFiName {
         String relativeName1 = com.SWcomputerSci.UserInput.getString();
         System.out.println("Enter the first name of a second sibling or relative: ");
         String relativeName2 = com.SWcomputerSci.UserInput.getString();
-
         // generate a sciFi name
         String sciFiFirstName = firstName.substring(0, 4) + lastName.substring(0, 3);
         System.out.println(sciFiFirstName);
-
         String sciFiLastName = city.substring(0,3)+ school.substring(0,4);
         System.out.println(sciFiLastName);
-
-       
     }
 }
