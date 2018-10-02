@@ -1,4 +1,4 @@
-package com.SWcomputerSci;
+package com.swcomputersci;
 import java.util.Scanner;
 public class UserInput {
 

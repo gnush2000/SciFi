@@ -50,33 +50,82 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="994283227">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="140" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="140" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="src" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SciFiName.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/swcomputersci/UserInput.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="170">
               <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+=======
+            <state relative-caret-position="85">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+>>>>>>> 6c975da12f26e23a1e1031f1a254bfe065185329
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UserInput.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/swcomputersci/SciFiName.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state>
               <caret column="26" selection-start-column="26" selection-end-column="26" />
+=======
+            <state relative-caret-position="476">
+              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+>>>>>>> 6c975da12f26e23a1e1031f1a254bfe065185329
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -84,12 +133,19 @@
       <list>
         <option value="$PROJECT_DIR$/UserInput.java" />
         <option value="$PROJECT_DIR$/SciFiName.java" />
+        <option value="$PROJECT_DIR$/com/swcomputersci/SciFiName.java" />
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="188" />
+    <option name="y" value="21" />
+>>>>>>> 6c975da12f26e23a1e1031f1a254bfe065185329
     <option name="width" value="1400" />
     <option name="height" value="1027" />
   </component>
@@ -99,6 +155,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,6 +168,7 @@
             <path>
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -131,20 +191,27 @@
               <item name="production" type="462c0819:PsiDirectoryNode" />
               <item name="SciFi" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="swcomputersci" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 6c975da12f26e23a1e1031f1a254bfe065185329
             </path>
             <path>
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="production" type="462c0819:PsiDirectoryNode" />
               <item name="SciFi" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="SWcomputerSci" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> 6c975da12f26e23a1e1031f1a254bfe065185329
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
@@ -153,6 +220,13 @@
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538416165256" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/out/production/SciFi/SciFiName.class" />
+=======
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538418138424" />
+    <property name="last_opened_file_path" value="C:/ProgramData/isve1901/GitHubDesktop/app-1.4.1/resources/app/git/cmd/git.exe" />
+>>>>>>> 6c975da12f26e23a1e1031f1a254bfe065185329
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -171,9 +245,21 @@
     </option>
   </component>
   <component name="RunManager">
+<<<<<<< HEAD
     <configuration name="Unnamed" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.swcomputersci.SciFiName" />
       <module name="SciFi" />
+=======
+    <configuration name="SciFiName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.swcomputersci.SciFiName" />
+      <module name="SciFi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swcomputersci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+>>>>>>> 6c975da12f26e23a1e1031f1a254bfe065185329
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -186,6 +272,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SciFiName" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -210,27 +301,42 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="188" y="21" width="1400" height="1000" extended-state="0" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.18336888" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.25820896" />
+>>>>>>> 6c975da12f26e23a1e1031f1a254bfe065185329
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.17857143" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5010846" side_tool="true" weight="0.17857143" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.318872" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290993" />
+>>>>>>> 6c975da12f26e23a1e1031f1a254bfe065185329
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.329718" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290993" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
+>>>>>>> 6c975da12f26e23a1e1031f1a254bfe065185329
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -250,6 +356,7 @@
     <entry file="file://$PROJECT_DIR$/SciFi.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/UserInput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -274,13 +381,25 @@
           <folding>
             <element signature="e#0#1560#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/out/production/SciFi/SciFiName.class" />
+    <entry file="file://$PROJECT_DIR$/com/swcomputersci/UserInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+>>>>>>> 6c975da12f26e23a1e1031f1a254bfe065185329
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SciFiName.java">
+    <entry file="file://$PROJECT_DIR$/com/swcomputersci/SciFiName.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="170">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+=======
+        <state relative-caret-position="476">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+>>>>>>> 6c975da12f26e23a1e1031f1a254bfe065185329
         </state>
       </provider>
     </entry>
