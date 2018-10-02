@@ -32,6 +32,6 @@ public class SciFiName {
         String sciFiLastName = city.substring(0,3)+ school.substring(0,4);
         System.out.println(sciFiLastName);
 
-       
+
     }
 }
