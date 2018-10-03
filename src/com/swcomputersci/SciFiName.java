@@ -32,15 +32,15 @@ public class SciFiName {
 
         int origen = (int) (Math.random()*(firstName.length()-1));
 
-        String place = firstName.substring(origen, firstName.length());
-        String G = firstName.toLowerCase();
+        String place = FirstName.substring(origen, firstName.length());
+        String G = place.toLowerCase();
         String place2 = G.substring(1, place.length());
         String Z = place.toUpperCase();
         String place3 = Z.substring(0,1);
         System.out.println(place2 + place3);
 
         int location = (int) (Math.random()*(relativeName1.length()));
-        String distance = relativeName1.substring(location, relativeName1.length());
+        String distance = r.substring(location, relativeName1.length());
         String D = distance.toLowerCase();
         String distance2 = D.substring(1, distance.length());
         String H = distance.toUpperCase();
