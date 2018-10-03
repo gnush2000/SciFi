@@ -6,7 +6,7 @@ public class SciFiName {
      *
      * For best results, user lowercase letters and do not use spaces in your input
      */
-
+    
     public static void main(String[] args) {
         System.out.println("If you provide me some information I will provide a Science Fiction name for you.");
         System.out.println("Please have all responses  be at least three characters long.");
