@@ -37,9 +37,11 @@ public class SciFiName {
 
         int location = (int) (Math.random()*(relativeName1.length()));
         String distance = relativeName1.substring(location, relativeName1.length());
-        System.out.println(distance);
+        String distance2 = distance.toLowerCase.substring(1, distance.length());
+        String distance3 = distance.toUpperCase.substring(0, 1);
+        System.out.println(distance2 + distance3);
 
-        System.out.println(place + " " + distance);
+        System.out.println(place + " " + distance2 + distance3);
 
         System.out.println("Hello " + place + " " + distance + " of "+ city + "!");
 
