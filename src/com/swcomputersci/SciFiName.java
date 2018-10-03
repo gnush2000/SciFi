@@ -33,15 +33,22 @@ public class SciFiName {
         int origen = (int) (Math.random()*(firstName.length()-1));
 
         String place = firstName.substring(origen, firstName.length());
-        System.out.println(place);
+        String G = firstName.toLowerCase();
+        String place2 = G.substring(1, place.length());
+        String Z = place.toUpperCase();
+        String place3 = Z.substring(0,1);
+        System.out.println(place2 + place3);
 
         int location = (int) (Math.random()*(relativeName1.length()));
         String distance = relativeName1.substring(location, relativeName1.length());
-        String distance2 = distance.toLowerCase.substring(1, distance.length());
-        String distance3 = distance.toUpperCase.substring(0, 1);
-        System.out.println(distance2 + distance3);
+        String D = distance.toLowerCase();
+        String distance2 = D.substring(1, distance.length());
+        String H = distance.toUpperCase();
+        String distance3 = H.substring(0, 1);
+        System.out.println(distance3 + distance2);
 
-        System.out.println(place + " " + distance2 + distance3);
+        System.out.println(place + " " + distance3 + distance2);
+
 
         System.out.println("Hello " + place + " " + distance + " of "+ city + "!");
 
